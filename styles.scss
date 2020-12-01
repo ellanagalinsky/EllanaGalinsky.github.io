@@ -5,11 +5,11 @@
 @import "bootstrap/scss/bootstrap.scss";
 
 // Global CSS
-@import "./global.scss";
+@import "./_global.scss";
 
 // Components
-@import "./components/sidenav.scss";
+@import "./_sidenav.scss";
 @import "./components/icons.scss";
 
 // Sections
-@import "./sections/resume-section.scss";
+@import "./_resume-section.scss";
