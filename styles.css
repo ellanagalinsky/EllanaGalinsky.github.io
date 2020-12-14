@@ -201,10 +201,7 @@ img {
   vertical-align: middle;
   border-style: none;
 }
-.img-max {
-  max-width: 50px;
-  width:10%;
-}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
@@ -480,7 +477,8 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 500px;
+  width: 100%;
   height: auto;
 }
 
@@ -489,7 +487,8 @@ mark,
   background-color: #fff;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
-  max-width: 100%;
+  max-width: 500px;
+  width:100%;
   height: auto;
 }
 
